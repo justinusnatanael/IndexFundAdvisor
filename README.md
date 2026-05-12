@@ -10,14 +10,14 @@ cara install requirements ke vscode: use the command pip install -r requirements
 
 VSCode Setup:
 
-download indexfunds folder diatas
-buka indexfund folder
-ketik "cmd" lewat path file
-ketik "code ." dalam cmd
-Cara run crew:
+1.download indexfunds folder diatas
+2. buka indexfund folder
+3. ketik "cmd" lewat path file
+4. ketik "code ." dalam cmd
 
-buka file src
-buka file indexfunds
-buka file main.py
-ketik di terminal "cd src"
-ketik di terminal "python -m indexfunds.main"
+Cara run crew:
+1. buka file src
+2. buka file indexfunds
+3. buka file main.py
+4. ketik di terminal "cd src"
+5. ketik di terminal "python -m indexfunds.main"
